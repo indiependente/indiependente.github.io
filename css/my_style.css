@@ -1,0 +1,20 @@
+.container {
+	width: auto;
+	margin: auto;
+	vertical-align: middle;
+}
+#first {
+	width: 50%;
+	float: left;
+	height: 90%;
+}
+#second {
+	width: 50%;
+	float: left;
+	height: 90%;
+}
+#third {
+	width: 50%;
+	float: left;
+	height: 90%;
+}
